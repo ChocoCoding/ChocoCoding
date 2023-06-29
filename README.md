@@ -12,7 +12,7 @@
 <div>
 
   ### :shipit: About me
-  - 🌱 I´m currently learning **Springboot, Hibernate, RestApi**
+  - 🌱 I´m currently learning **Springboot, Hibernate, Api REST**
   - 📫 **gonzalo.dominguez.cd@gmail.com**
   - ❓ Ask me about: **Java, Wordpress**
 

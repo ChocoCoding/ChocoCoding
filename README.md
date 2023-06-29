@@ -5,7 +5,7 @@
 
 --
 
-<h3>In love with the world of programming, In love with the world of programming, I have created web pages on my own but now I am focusing on the backend part</h3>
+<h3>In love with the world of programming, I have created web pages on my own but now I am focusing on the backend part</h3>
 </div>
 
 ---
